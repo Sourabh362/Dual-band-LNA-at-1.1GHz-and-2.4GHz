@@ -1,1 +1,2 @@
 # Dual-band-LNA-at-1.1GHz-and-2.4GHz
+This work shows the design of dual band low noise amplifier at 1.1GHz and 2.4GHz using a GaAs PHEMT using ADS software. The amplifier delivers high stable amplification with minimum noise figure. The circuit is matched using transmission line methodology, providing optimized S parameters and IIP3, OIP3 at the respective frequencies. The conference paper discusses in detail about the construction and working of the amplifier. https://ieeexplore.ieee.org/document/10065193
